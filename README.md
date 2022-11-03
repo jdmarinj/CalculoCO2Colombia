@@ -4,6 +4,16 @@
 <img src="https://github.com/GAMACO-MIoT/prueba1/blob/main/Logo%202.png">
 </p>
 
+
+
+
+### Repositorio
+https://github.com/jdmarinj/CalculoCO2Colombia
+
+### Colab
+https://colab.research.google.com/github/jdmarinj/API_XM/blob/master/Datos_CO2_XM.ipynb
+
+    
  ## Índice
 1. [Importación de librerías requeridas](#section1)
 2. [Factor de emisión equivalente de CO2](#section2)
