@@ -1,4 +1,8 @@
-# CalculoCO2Colombia
+# Cálculo emisiones de CO2 del SIN - Colombia
+
+<p align="center"> 
+<img src="https://github.com/GAMACO-MIoT/prueba1/blob/main/Logo%202.png">
+</p>
 
 {
   "nbformat": 4,
