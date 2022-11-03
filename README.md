@@ -24,8 +24,12 @@ De la API de XM se utilizan únicamente los factores: factorEmisionCO2e (factor 
 En el archivo Datos_CO2_XM.ipynb se presentan los comandos para graficar los precios de bolsa en periodos que pueden ser ajustados por el usuario.
 
 <a id='section4'></a>
-## Cálculo de Emisiones en una Industria Manufacturera
-Se recomienda al usuario descargar el archivo 
+## Cálculo de Emisiones en una Industria Manufacturera /Factor de emisión diario
+factorEmisionCO2e con diferentes periodos de análisis.
+
+<a id='section5'></a>
+## Importación de datos de consumo
+Se recomienda al usuario descargar el archivo llamado: MatrizdeConsumo_1041208.csv (se encuentra en el repositorio). Dicho archivo deberá ser subido a Google Colab para permitir simular el consumo de una industria.
 
 
 
